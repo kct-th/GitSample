@@ -20,6 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     /* test */
     /* test2 */
+    /* test3 */
 }
 
 - (void)didReceiveMemoryWarning
